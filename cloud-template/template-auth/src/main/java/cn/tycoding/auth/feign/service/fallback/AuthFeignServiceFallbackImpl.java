@@ -4,7 +4,7 @@ import cn.tycoding.auth.feign.service.AuthFeignService;
 import org.springframework.stereotype.Component;
 
 /**
- * @author tycoding
+ * @author di.mao
  * @date 2019-05-19
  */
 @Component

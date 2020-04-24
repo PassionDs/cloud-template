@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * SpringBoot2.x版本中需要手动指定dashboard的servlet请求地址
  *
- * @author tycoding
+ * @author di.mao
  * @date 2019-05-19
  */
 @Configuration

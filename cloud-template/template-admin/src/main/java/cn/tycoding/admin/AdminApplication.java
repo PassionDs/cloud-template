@@ -7,7 +7,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 /**
  * 服务提供方 - admin模块
  *
- * @author tycoding
+ * @author di.mao
  * @date 2019-05-18
  */
 @EnableEurekaClient

@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 /**
  * Feign远程调用接口，@FeignClient配置了远程调用其他应用接口的应用名称
  *
- * @author tycoding
+ * @author di.mao
  * @date 2019-05-18
  */
 @FeignClient(value = "template-admin", fallback = AuthFeignServiceFallbackImpl.class)

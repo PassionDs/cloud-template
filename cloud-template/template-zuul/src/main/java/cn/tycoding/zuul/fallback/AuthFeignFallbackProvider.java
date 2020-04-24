@@ -17,7 +17,7 @@ import java.util.Map;
 /**
  * template-auth服务的AuthFeignService网关转发错误回调
  *
- * @author tycoding
+ * @author di.mao
  * @date 2019-05-20
  */
 @Component
